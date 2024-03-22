@@ -1,0 +1,10 @@
+50000,customer,[Electronics],dasdsa,tech3,2024-04-20,2024-03-21,true,0,true,sdadasda,hdhdhgh
+50001,customer,[TV],dadas,tech,2024-04-20,2024-03-21,true,90,true,ads,null
+50002,customer,[TV],dasdasdasa,tech3,2024-04-20,0001-01-01,false,0,false,null,null
+50003,customer,[Electronics],rwwe,tech,2024-04-20,2024-03-21,true,564,true,fghdhgh,wqr1q2r23ew
+50004,customer,[Electronics],fsfdsggd,tech,2024-04-20,2024-03-21,true,9999,true,sdfsdafasdffadsfda,dsadasdsadas
+50005,customer,[Electronics],dss,tech,2024-04-20,0001-01-01,false,0,false,null,null
+50006,customer,[Electronics],fdfd,tech,2024-04-20,2024-03-21,true,43,true,ewewr,null
+50007,customer,[Electronics],csca,tech,2024-04-20,2024-03-21,true,80,true,fdfdfsdfsd,dasdsadas
+50008,ali,[Fridge],babi,tech3,2024-04-22,2024-03-22,true,7799797,true,dkaos,die
+50009,ali,[Fridge],boom,tech3,2024-04-22,2024-03-22,true,69,true,dam,boom

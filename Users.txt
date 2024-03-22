@@ -1,0 +1,7 @@
+admin,admin,0
+tech,tech,1
+customer,customer,10
+admin3,admin3,0
+tech3,tech 3,1
+customer3,customer3,10
+ali,ali,10
